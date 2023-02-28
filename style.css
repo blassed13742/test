@@ -1,0 +1,32 @@
+body{
+background-image: url(https://oir.mobi/uploads/posts/2021-03/1616997349_45-p-fon-dlya-rabochego-stola-uspokaivayushchii-50.jpg)
+}
+.main{
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+.nav{
+    background-color: black;
+    width: 700px;
+    height: 30px;
+    display: flex;
+    margin: auto;
+}
+.nav a{
+    color: white;
+    margin: 10px;
+}
+img{
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+}
+.news a{
+    margin-left: 600px;
+}
+.news{
+    border: 2px solid blueviolet;
+    padding: 20px;
+}
